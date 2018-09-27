@@ -1,6 +1,6 @@
 {
-  "name": "react-native-material-design",
-  "version": "0.3.8",
+  "name": "@cybereits/react-native-material-design",
+  "version": "0.1.0",
   "description": "React Native Material Design Components",
   "main": "lib/index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/react-native-material-design/react-native-material-design/issues"
   },
-  "homepage": "https://github.com/react-native-material-design/react-native-material-design",
+  "homepage": "http://npm.cybereits.cn/package/@cybereits/react-native-material-design",
   "dependencies": {
     "react-native-material-design-styles": "git+https://github.com/react-native-material-design/react-native-material-design-styles.git",
     "react-native-vector-icons": "^2.0.1"
